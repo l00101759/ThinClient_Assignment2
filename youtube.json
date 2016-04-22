@@ -1,0 +1,195 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"dj7Wjtujr8JpxjNVWXy19qVsBRI/9kcjJ83pPqbBTSMu1WFVx5koq8Q\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"dj7Wjtujr8JpxjNVWXy19qVsBRI/Dg0G-1lNUtQ6yW4cRJ1gXn1jh6U\"",
+   "id": "7lCDEYXw3mM",
+   "snippet": {
+    "publishedAt": "2015-12-06T23:12:38.000Z",
+    "channelId": "UC_x5XG1OV2P6uZM5FSM9Ttw",
+    "title": "Top 5 Republic of Ireland EURO 2016 qualifying goals: Walters, McGeady and more ",
+	"url": "https://www.youtube.com/watch?v=uPfBHDOhf_U",
+    "description": "Watch five of the Republic of Ireland’s best goals in qualifying, including Shane Long’s winner against Germany and a vital play-off goal scored by Jon Walters.",
+    "thumbnails": {
+     "default": {
+      "url": "http://img.youtube.com/vi/uPfBHDOhf_U/0.jpg",
+      "width": 478,
+      "height": 359
+     },
+     "medium": {
+      "url": "http://img.youtube.com/vi/uPfBHDOhf_U/0.jpg",
+      "width": 478,
+      "height": 359
+     },
+     "high": {
+      "url": "http://img.youtube.com/vi/uPfBHDOhf_U/0.jpg",
+      "width": 478,
+      "height": 359
+     }
+    },
+    "channelTitle": "UEFA.tv",
+    "tags": [
+     "uefa",
+     "football"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Top 5 Republic of Ireland EURO 2016 qualifying goals: Walters, McGeady and more ",
+     "description": "Watch five of the Republic of Ireland’s best goals in qualifying, including Shane Long’s winner against Germany and a vital play-off goal scored by Jon Walters."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT15M51S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "10,456",
+    "likeCount": "187",
+    "dislikeCount": "10",
+    "favoriteCount": "0",
+    "commentCount": "28"
+   }
+  },
+   {
+   "kind": "youtube#video",
+   "etag": "\"dj7Wjtujr8JpxjNVWXy19qVsBRI/Dg0G-1lMUtQ6yW4cRJ1gXn1jh6U\"",
+   "id": "7lCDEYXw3mM",
+   "snippet": {
+    "publishedAt": "2015-06-20T23:12:38.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Google I/O 101: Q&A On Using Google APIs And Test",
+    "url": "https://www.youtube.com/watch?v=7lCDEYXw3mM",
+    "description": "Antonio Fuentes speaks to us and takes questions on working with Google APIs and OAuth 2.0.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7lCDEYXw3mM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7lCDEYXw3mM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7lCDEYXw3mM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Google Developers",
+    "tags": [
+     "api",
+     "gdl",
+     "i-o"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Google I/O 101: Q&A On Using Google APIs",
+     "description": "Antonio Fuentes speaks to us and takes questions on working with Google APIs and OAuth 2.0."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT15M51S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "6,896",
+    "likeCount": "39",
+    "dislikeCount": "2",
+    "favoriteCount": "0",
+    "commentCount": "11"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"dj7Wjtujr8JpxjNVWXy19qVyBRI/Dg0G-1lMUtQ6yW4cRJ1gXn1jh6U\"",
+   "id": "7lCDEYXw3mM",
+   "snippet": {
+    "publishedAt": "2015-11-12T23:12:38.000Z",
+    "channelId": "UC_x5XG1OV5P6uZZ5FSM9Ttw",
+    "title": "Bosnia and Herzegovina v Republic of Ireland: UEFA EURO 2016 play-offs ",
+	"url": "https://www.youtube.com/watch?v=8Xt4ew5nW9E",
+    "description": "Watch Bosnia and Herzegovina and Republic of Ireland in action before they battle it out for a place at UEFA EURO 2016.",
+    "thumbnails": {
+     "default": {
+      "url": "http://img.youtube.com/vi/8Xt4ew5nW9E/0.jpg",
+      "width": 478,
+      "height": 359
+     },
+     "medium": {
+      "url": "http://img.youtube.com/vi/8Xt4ew5nW9E/0.jpg",
+      "width": 478,
+      "height": 359
+     },
+     "high": {
+      "url": "http://img.youtube.com/vi/8Xt4ew5nW9E/0.jpg",
+      "width": 478,
+      "height": 359
+     }
+    },
+    "channelTitle": "Google Developers",
+    "tags": [
+     "api",
+     "gdl",
+     "i-o"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Bosnia and Herzegovina v Republic of Ireland: UEFA EURO 2016 play-offs ",
+     "description": "Watch Bosnia and Herzegovina and Republic of Ireland in action before they battle it out for a place at UEFA EURO 2016."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT15M51S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": false
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true
+   },
+   "statistics": {
+    "viewCount": "2,737",
+    "likeCount": "52",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "23"
+   }
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+#optionDiv{
+	width: 20%;
+	margin: auto;
+}
+#tableDiv{
+	width: 50%;
+	margin: auto;
+}
+table, th{
+	text-align: center;
+	img-align: center;
+}
+
+#sortBtn{ 
+	cursor: pointer; cursor: hand; 
+}
+/*Reference this*/
+#blogOutput, #weatherOutput{
+	height: 400px;
+	overflow-y: scroll;
+}

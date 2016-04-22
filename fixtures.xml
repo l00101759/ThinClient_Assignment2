@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="eurofixtures.xsl" type="text/xsl"?>
+<!DOCTYPE Fixtures SYSTEM "fixtures.dtd">
+<Fixtures>
+	<game >
+    <!--<picture><image href="irish.png"/></picture>-->
+	<imagepath>irish.png</imagepath>
+	 <hometeam>Ireland</hometeam>
+	 <awayteam>Sweden</awayteam>
+	  <imagepath2>swedish.jpg</imagepath2>
+	 <date>2016-06-01</date>
+ </game>
+ 
+ <game >
+ <imagepath>italian.png</imagepath>
+	 <hometeam>Italy</hometeam>
+	 <awayteam>Belgium</awayteam>
+	 <imagepath2>belgiumcrest.png</imagepath2>
+	 <date>2016-06-04</date>
+ </game>
+ <game >
+ <imagepath>swedish.jpg</imagepath>
+	 <hometeam>Sweden</hometeam>
+	 <awayteam>Ireland</awayteam>
+	 <imagepath2>irish.png</imagepath2>
+	 <date>2016-06-08</date>
+ </game>
+ <game >
+ <imagepath>swedish.jpg</imagepath>
+	 <hometeam>Sweden</hometeam>
+	 <awayteam>Italy</awayteam>
+	 <imagepath2>italian.png</imagepath2>
+	 <date>2016-06-16</date>
+ </game>
+ <game>
+    <imagepath>irish.png</imagepath>
+	 <hometeam>Ireland</hometeam>
+	 <awayteam>Italy</awayteam>
+	 <imagepath2>italian.png</imagepath2>
+	 <date>2016-06-26</date>
+ </game>
+ <game>
+ <imagepath>belgiumcrest.png</imagepath>
+	 <hometeam>Belgium</hometeam>
+	 <awayteam>Sweden</awayteam>
+	 <imagepath2>swedish.jpg</imagepath2>
+	 <date>2016-06-30</date>
+ </game>
+</Fixtures>
+
+ 
+    

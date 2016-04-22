@@ -1,0 +1,85 @@
+{
+    "tweets": [
+        {
+            "url": "http://twitter.com/cosmocatalano/status/343768531101417474",
+            "text": "This is a test tweet for Assignment 2 for Thin Client ",
+            "html": "<a href=\"http://t.co/XRaizXhwYz\" rel=\"nofollow\" dir=\"ltr\" data-expanded-url=\"http://instagram.com/p/aWFnSJInU-/\" class=\"twitter-timeline-link\" target=\"_blank\" title=\"http://instagram.com/p/aWFnSJInU-/\" ><span class=\"invisible\">http://</span><span class=\"js-display-url\">instagram.com/p/aWFnSJInU-/</span><span class=\"invisible\"></span><span class=\"tco-ellipsis\"><span class=\"invisible\">&nbsp;</span></span></a>",
+            "date": "1461243610",
+            "user": "@fraserc12",
+            "id": "14503633",
+            "img": "https://si0.twimg.com/profile_images/2225916199/image_normal.jpg",
+            "name": "Fraser Cassidy",
+            "rt": false,
+            "card": {
+                "href": "http://instagram.com/p/aWFnSJInU-/",
+                "data-url": "http://distilleryimage2.ak.instagram.com/9d54f23ed12211e29fe522000a1f97ce_5.jpg",
+                "data-resolved-url-large": "http://distilleryimage2.ak.instagram.com/9d54f23ed12211e29fe522000a1f97ce_7.jpg"
+            }
+        },
+		{
+            "url": "http://twitter.com/cosmocatalano/status/343768531101417474",
+            "text": "This is a test tweet for Assignment 2 for Thin Client  2",
+            "html": " <a href=\"http://t.co/XRaizXhwYz\" rel=\"nofollow\" dir=\"ltr\" data-expanded-url=\"http://instagram.com/p/aWFnSJInU-/\" class=\"twitter-timeline-link\" target=\"_blank\" title=\"http://instagram.com/p/aWFnSJInU-/\" ><span class=\"invisible\">http://</span><span class=\"js-display-url\">instagram.com/p/aWFnSJInU-/</span><span class=\"invisible\"></span><span class=\"tco-ellipsis\"><span class=\"invisible\">&nbsp;</span></span></a>",
+            "date": "1461243610",
+            "user": "@fraserc12",
+            "id": "14503633",
+            "img": "https://si0.twimg.com/profile_images/2225916199/image_normal.jpg",
+            "name": "Fraser Cassidy",
+            "rt": false,
+            "card": {
+                "href": "http://instagram.com/p/aWFnSJInU-/",
+                "data-url": "http://distilleryimage2.ak.instagram.com/9d54f23ed12211e29fe522000a1f97ce_5.jpg",
+                "data-resolved-url-large": "http://distilleryimage2.ak.instagram.com/9d54f23ed12211e29fe522000a1f97ce_7.jpg"
+            }
+        },
+		{
+            "url": "http://twitter.com/cosmocatalano/status/343768531101417474",
+            "text": "This is a test tweet for Assignment 2 for Thin Client 3",
+            "html": " <a href=\"http://t.co/XRaizXhwYz\" rel=\"nofollow\" dir=\"ltr\" data-expanded-url=\"http://instagram.com/p/aWFnSJInU-/\" class=\"twitter-timeline-link\" target=\"_blank\" title=\"http://instagram.com/p/aWFnSJInU-/\" ><span class=\"invisible\">http://</span><span class=\"js-display-url\">instagram.com/p/aWFnSJInU-/</span><span class=\"invisible\"></span><span class=\"tco-ellipsis\"><span class=\"invisible\">&nbsp;</span></span></a>",
+            "date": "1461243610",
+            "user": "@fraserc12",
+            "id": "14503633",
+            "img": "https://si0.twimg.com/profile_images/2225916199/image_normal.jpg",
+            "name": "Fraser Cassidy",
+            "rt": false,
+            "card": {
+                "href": "http://instagram.com/p/aWFnSJInU-/",
+                "data-url": "http://distilleryimage2.ak.instagram.com/9d54f23ed12211e29fe522000a1f97ce_5.jpg",
+                "data-resolved-url-large": "http://distilleryimage2.ak.instagram.com/9d54f23ed12211e29fe522000a1f97ce_7.jpg"
+            }
+        },
+		{
+            "url": "http://twitter.com/cosmocatalano/status/343768531101417474",
+            "text": "This is a test tweet for Assignment 2 for Thin Client  4",
+            "html": " <a href=\"http://t.co/XRaizXhwYz\" rel=\"nofollow\" dir=\"ltr\" data-expanded-url=\"http://instagram.com/p/aWFnSJInU-/\" class=\"twitter-timeline-link\" target=\"_blank\" title=\"http://instagram.com/p/aWFnSJInU-/\" ><span class=\"invisible\">http://</span><span class=\"js-display-url\">instagram.com/p/aWFnSJInU-/</span><span class=\"invisible\"></span><span class=\"tco-ellipsis\"><span class=\"invisible\">&nbsp;</span></span></a>",
+            "date": "1461243610",
+            "user": "@fraserc12",
+            "id": "14503633",
+            "img": "https://si0.twimg.com/profile_images/2225916199/image_normal.jpg",
+            "name": "Fraser Cassidy",
+            "rt": false,
+            "card": {
+                "href": "http://instagram.com/p/aWFnSJInU-/",
+                "data-url": "http://distilleryimage2.ak.instagram.com/9d54f23ed12211e29fe522000a1f97ce_5.jpg",
+                "data-resolved-url-large": "http://distilleryimage2.ak.instagram.com/9d54f23ed12211e29fe522000a1f97ce_7.jpg"
+            }
+        },
+		{
+            "url": "http://twitter.com/cosmocatalano/status/343768531101417474",
+            "text": "This is a test tweet for Assignment 2 for Thin Client  5",
+            "html": " <a href=\"http://t.co/XRaizXhwYz\" rel=\"nofollow\" dir=\"ltr\" data-expanded-url=\"http://instagram.com/p/aWFnSJInU-/\" class=\"twitter-timeline-link\" target=\"_blank\" title=\"http://instagram.com/p/aWFnSJInU-/\" ><span class=\"invisible\">http://</span><span class=\"js-display-url\">instagram.com/p/aWFnSJInU-/</span><span class=\"invisible\"></span><span class=\"tco-ellipsis\"><span class=\"invisible\">&nbsp;</span></span></a>",
+            "date": "1461243610",
+            "user": "@fraserc12",
+            "id": "14503633",
+            "img": "https://si0.twimg.com/profile_images/2225916199/image_normal.jpg",
+            "name": "Fraser Cassidy",
+            "rt": false,
+            "card": {
+                "href": "http://instagram.com/p/aWFnSJInU-/",
+                "data-url": "http://distilleryimage2.ak.instagram.com/9d54f23ed12211e29fe522000a1f97ce_5.jpg",
+                "data-resolved-url-large": "http://distilleryimage2.ak.instagram.com/9d54f23ed12211e29fe522000a1f97ce_7.jpg"
+            }
+        }
+		
+    ]
+}

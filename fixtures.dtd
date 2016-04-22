@@ -1,0 +1,7 @@
+<!ELEMENT Fixtures (game+)>
+<!ELEMENT game (imagepath, hometeam, awayteam, imagepath2, date)>
+<!ELEMENT imagepath (#PCDATA)>
+<!ELEMENT hometeam (#PCDATA)>
+<!ELEMENT awayteam (#PCDATA)>
+<!ELEMENT imagepath2 (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
